@@ -1,0 +1,10 @@
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="new.css">
+<div class="zero">
+<center> <a href="https://www.google.com">Home &nbsp;</a><a href="http:amazon.in">Contact &nbsp;</a><a href="https://wikipedia.org"> About-Us</a>
+</div>
+<div class="one"><a href="https://www.fazeclan.com"> Faze Clan</div>
+<div class="two"><a href="https://navi.gg/en/"> Navi</div>
+</body>
+</html>
